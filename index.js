@@ -4,5 +4,6 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo() {
-  return(`happ)
+  return `Happy holidays, ${name}`
 }
+
